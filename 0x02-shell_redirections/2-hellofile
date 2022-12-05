@@ -1,0 +1,2 @@
+#!/bine/bash
+cat /etc/passwd
